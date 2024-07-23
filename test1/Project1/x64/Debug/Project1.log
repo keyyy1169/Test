@@ -1,0 +1,6 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+D:\Visualstudio\code\2024.7\test1\Project1\test.c(78,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Visualstudio\code\2024.7\test1\Project1\test.c(84,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Visualstudio\code\2024.7\test1\Project1\test.c(85,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  Project1.vcxproj -> D:\Visualstudio\code\2024.7\test1\x64\Debug\test1.exe
